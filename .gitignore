@@ -5,7 +5,7 @@ _notes/
 /bower_components/
 /node_modules/
 
-# WORDPRESS
+# WORDPRESS - Portfolio
 
 /wp-admin/
 /wp-content/index.php
